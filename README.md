@@ -1,1 +1,1 @@
-# Text about GitHub from VSCode
+'Hello, Git! How are you?' 
