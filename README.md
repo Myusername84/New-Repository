@@ -1,0 +1,1 @@
+# Text about GitHub from VSCode
